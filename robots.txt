@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 Sitemap:
-https://harshitkastwar.github.io/sitemap.xml
+https://harshitkastwar.xyz/sitemap.xml
